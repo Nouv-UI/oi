@@ -1,2 +1,1 @@
-Tes Repo
-Fungsi README.md
+Kumpulan kode python untuk menyelesaikan algoritma pengurutan dan pencarian
